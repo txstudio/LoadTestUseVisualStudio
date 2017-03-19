@@ -1,0 +1,8 @@
+C:\Users\st890\Documents\Github\LoadTest\AspNetCoreApi.WebAndLoadTest\AspNetCoreApi.WebAndLoadTest\bin\Debug\AspNetCoreApi.WebAndLoadTest.dll
+C:\Users\st890\Documents\Github\LoadTest\AspNetCoreApi.WebAndLoadTest\AspNetCoreApi.WebAndLoadTest\bin\Debug\AspNetCoreApi.WebAndLoadTest.pdb
+C:\Users\st890\Documents\Github\LoadTest\AspNetCoreApi.WebAndLoadTest\AspNetCoreApi.WebAndLoadTest\bin\Debug\Microsoft.VisualStudio.QualityTools.WebTestFramework.dll
+C:\Users\st890\Documents\Github\LoadTest\AspNetCoreApi.WebAndLoadTest\AspNetCoreApi.WebAndLoadTest\bin\Debug\zh-Hant\Microsoft.VisualStudio.QualityTools.WebTestFramework.resources.dll
+C:\Users\st890\Documents\Github\LoadTest\AspNetCoreApi.WebAndLoadTest\AspNetCoreApi.WebAndLoadTest\obj\Debug\AspNetCoreApi.WebAndLoadTest.csprojResolveAssemblyReference.cache
+C:\Users\st890\Documents\Github\LoadTest\AspNetCoreApi.WebAndLoadTest\AspNetCoreApi.WebAndLoadTest\obj\Debug\AspNetCoreApi.WebAndLoadTest.dll
+C:\Users\st890\Documents\Github\LoadTest\AspNetCoreApi.WebAndLoadTest\AspNetCoreApi.WebAndLoadTest\obj\Debug\AspNetCoreApi.WebAndLoadTest.pdb
+C:\Users\st890\Documents\Github\LoadTest\AspNetCoreApi.WebAndLoadTest\AspNetCoreApi.WebAndLoadTest\bin\Debug\DemoLoginLoadTest.loadtest

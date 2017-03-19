@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<WebTest Name="ApiLogin.WebTest" Id="7853c2cb-cf85-4f0b-b211-7b07febc3671" Owner="" Priority="2147483647" Enabled="True" CssProjectStructure="" CssIteration="" Timeout="0" WorkItemIds="" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010" Description="" CredentialUserName="" CredentialPassword="" PreAuthenticate="True" Proxy="default" StopOnError="False" RecordedResultFile="" ResultsLocale="">
+  <Items>
+    <Request Method="POST" Guid="664d41b1-c866-4166-8b07-99145f5829a7" Version="1.1" Url="http://localhost:49989/api/login" ThinkTime="0" Timeout="60" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <StringHttpBody ContentType="application/json" InsertByteOrderMark="False">ewANAAoAIgBlAG0AYQBpAGwAIgA6ACIAdQBzAGUAcgBAAHMAdAB1AGQAaQBvAC4AdAB3ACIALAANAAoACgAiAHAAYQBzAHMAdwBvAHIAZAAiADoAIgBwAGEAcwBzAHcAbwByAGQAIgAKAA0ACgB9AA==</StringHttpBody>
+    </Request>
+  </Items>
+</WebTest>

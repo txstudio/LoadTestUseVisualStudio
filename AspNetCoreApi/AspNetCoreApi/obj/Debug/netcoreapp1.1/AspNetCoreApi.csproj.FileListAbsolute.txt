@@ -1,0 +1,9 @@
+C:\Users\st890\Documents\Github\LoadTest\AspNetCoreApi\AspNetCoreApi\bin\Debug\netcoreapp1.1\AspNetCoreApi.deps.json
+C:\Users\st890\Documents\Github\LoadTest\AspNetCoreApi\AspNetCoreApi\bin\Debug\netcoreapp1.1\AspNetCoreApi.runtimeconfig.json
+C:\Users\st890\Documents\Github\LoadTest\AspNetCoreApi\AspNetCoreApi\bin\Debug\netcoreapp1.1\AspNetCoreApi.runtimeconfig.dev.json
+C:\Users\st890\Documents\Github\LoadTest\AspNetCoreApi\AspNetCoreApi\bin\Debug\netcoreapp1.1\AspNetCoreApi.dll
+C:\Users\st890\Documents\Github\LoadTest\AspNetCoreApi\AspNetCoreApi\bin\Debug\netcoreapp1.1\AspNetCoreApi.pdb
+C:\Users\st890\Documents\Github\LoadTest\AspNetCoreApi\AspNetCoreApi\obj\Debug\netcoreapp1.1\AspNetCoreApi.csprojResolveAssemblyReference.cache
+C:\Users\st890\Documents\Github\LoadTest\AspNetCoreApi\AspNetCoreApi\obj\Debug\netcoreapp1.1\AspNetCoreApi.AssemblyInfo.cs
+C:\Users\st890\Documents\Github\LoadTest\AspNetCoreApi\AspNetCoreApi\obj\Debug\netcoreapp1.1\AspNetCoreApi.dll
+C:\Users\st890\Documents\Github\LoadTest\AspNetCoreApi\AspNetCoreApi\obj\Debug\netcoreapp1.1\AspNetCoreApi.pdb
